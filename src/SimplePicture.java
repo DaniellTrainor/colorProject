@@ -361,6 +361,9 @@ public class SimplePicture implements DigitalPicture
         return pixelArray;
     }
 
+
+
+
     /**
      * Method to load the buffered image with the passed image
      * @param image  the image to use
